@@ -1,0 +1,10 @@
+body{
+    background-size: cover;
+}
+.pawnote{
+    width: 100%;
+    color: white;
+    background-color: black;
+    bottom: 0;
+    position: fixed;
+}
